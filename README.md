@@ -2,7 +2,7 @@
 
 Project by Promise Okere
 
-This project generally helps to see the concept of team work and to understand the printf functionality
+This project generally helps to see the concept of team work and to simulate the printf function
 
 
 The _printf() function produces output according to a format which is described below. This function write its output to the stdout, the standard output. Returns the count of printed characters when the function is successful The available convertion specifiers are:
