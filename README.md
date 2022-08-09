@@ -1,8 +1,8 @@
 0x011 .C Printf
 
-Project by Boluwaji Oladimeji and Ayodele Arogundade (github.com/Ayodelearog)
+Project by Promise Okere
 
-This project helps to understand the concept of team work and to understand the concept of printf
+This project generally helps to see the concept of team work and to understand the printf functionality
 
 
 The _printf() function produces output according to a format which is described below. This function write its output to the stdout, the standard output. Returns the count of printed characters when the function is successful The available convertion specifiers are:
